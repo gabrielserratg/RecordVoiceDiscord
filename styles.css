@@ -1,0 +1,47 @@
+.button {
+    display: inline-block;
+    border-radius: 4px;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 18px;
+    padding: 20px;
+    width: 200px;
+    transition: all 1s;
+    cursor: pointer;
+    margin: 5px;
+  }
+
+.btnstart {
+    background-color: #00FF49;
+}
+
+.btnstop {
+    background-color: #FF0000;
+}
+
+.btnsave {
+    background-color: #6300FF;
+}
+
+.txt {
+    color: white;
+    font-size: 45px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.txtdoispont {
+    color: #007580;
+    font-size: 45px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.txtstatus{
+    color: white;
+    font-size: 45px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+body{
+    background-color: #181a1b;
+}
